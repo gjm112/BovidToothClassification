@@ -22,4 +22,9 @@ There are 5 .R code files, one for each machine learning technique examined here
 - Neural Networks (NNET)
 
 
-George, what else goes here? 
+The R code for each method runs 6-fold cross validation for a model classifying the tribe and a model classifying the species conditional on tribe.  Results of cross validation are measured in terms of log-loss and misclassification error.  
+
+Any questions should be sent to: 
+Gregory J. Matthews
+gjm112@gmail.com
+
